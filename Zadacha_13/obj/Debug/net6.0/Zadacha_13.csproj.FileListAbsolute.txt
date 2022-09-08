@@ -1,0 +1,15 @@
+D:\Geekbrains\#С\Homework2\Zadacha_13\bin\Debug\net6.0\Zadacha_13.exe
+D:\Geekbrains\#С\Homework2\Zadacha_13\bin\Debug\net6.0\Zadacha_13.deps.json
+D:\Geekbrains\#С\Homework2\Zadacha_13\bin\Debug\net6.0\Zadacha_13.runtimeconfig.json
+D:\Geekbrains\#С\Homework2\Zadacha_13\bin\Debug\net6.0\Zadacha_13.dll
+D:\Geekbrains\#С\Homework2\Zadacha_13\bin\Debug\net6.0\Zadacha_13.pdb
+D:\Geekbrains\#С\Homework2\Zadacha_13\obj\Debug\net6.0\Zadacha_13.csproj.AssemblyReference.cache
+D:\Geekbrains\#С\Homework2\Zadacha_13\obj\Debug\net6.0\Zadacha_13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geekbrains\#С\Homework2\Zadacha_13\obj\Debug\net6.0\Zadacha_13.AssemblyInfoInputs.cache
+D:\Geekbrains\#С\Homework2\Zadacha_13\obj\Debug\net6.0\Zadacha_13.AssemblyInfo.cs
+D:\Geekbrains\#С\Homework2\Zadacha_13\obj\Debug\net6.0\Zadacha_13.csproj.CoreCompileInputs.cache
+D:\Geekbrains\#С\Homework2\Zadacha_13\obj\Debug\net6.0\Zadacha_13.dll
+D:\Geekbrains\#С\Homework2\Zadacha_13\obj\Debug\net6.0\refint\Zadacha_13.dll
+D:\Geekbrains\#С\Homework2\Zadacha_13\obj\Debug\net6.0\Zadacha_13.pdb
+D:\Geekbrains\#С\Homework2\Zadacha_13\obj\Debug\net6.0\Zadacha_13.genruntimeconfig.cache
+D:\Geekbrains\#С\Homework2\Zadacha_13\obj\Debug\net6.0\ref\Zadacha_13.dll
