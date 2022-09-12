@@ -9,8 +9,8 @@ Console.WriteLine("массив: ");
 PrintArray(numbers);
 int count = 0;
 
-for (int z = 0; z < numbers.Length; z++)
-if (numbers[z] % 2 == 0)
+for (int n = 0; n < numbers.Length; n++)
+if (numbers[n] % 2 == 0)
 count++;
 
 Console.WriteLine($"всего {numbers.Length} числа, {count} из них чётные");
