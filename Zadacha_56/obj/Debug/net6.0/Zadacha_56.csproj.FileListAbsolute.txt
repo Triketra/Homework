@@ -1,0 +1,15 @@
+D:\Geekbrains\#С\Homework\Zadacha_56\obj\Debug\net6.0\Zadacha_56.csproj.AssemblyReference.cache
+D:\Geekbrains\#С\Homework\Zadacha_56\obj\Debug\net6.0\Zadacha_56.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geekbrains\#С\Homework\Zadacha_56\obj\Debug\net6.0\Zadacha_56.AssemblyInfoInputs.cache
+D:\Geekbrains\#С\Homework\Zadacha_56\obj\Debug\net6.0\Zadacha_56.AssemblyInfo.cs
+D:\Geekbrains\#С\Homework\Zadacha_56\obj\Debug\net6.0\Zadacha_56.csproj.CoreCompileInputs.cache
+D:\Geekbrains\#С\Homework\Zadacha_56\bin\Debug\net6.0\Zadacha_56.exe
+D:\Geekbrains\#С\Homework\Zadacha_56\bin\Debug\net6.0\Zadacha_56.deps.json
+D:\Geekbrains\#С\Homework\Zadacha_56\bin\Debug\net6.0\Zadacha_56.runtimeconfig.json
+D:\Geekbrains\#С\Homework\Zadacha_56\bin\Debug\net6.0\Zadacha_56.dll
+D:\Geekbrains\#С\Homework\Zadacha_56\bin\Debug\net6.0\Zadacha_56.pdb
+D:\Geekbrains\#С\Homework\Zadacha_56\obj\Debug\net6.0\Zadacha_56.dll
+D:\Geekbrains\#С\Homework\Zadacha_56\obj\Debug\net6.0\refint\Zadacha_56.dll
+D:\Geekbrains\#С\Homework\Zadacha_56\obj\Debug\net6.0\Zadacha_56.pdb
+D:\Geekbrains\#С\Homework\Zadacha_56\obj\Debug\net6.0\Zadacha_56.genruntimeconfig.cache
+D:\Geekbrains\#С\Homework\Zadacha_56\obj\Debug\net6.0\ref\Zadacha_56.dll
